@@ -5,7 +5,7 @@
     class="virtual-list"  
   >
     <template #default="{ item }">
-      <div class="item">{{ item }}</div>
+      <div class="item">{{ item }}123</div>
     </template>
   </VirtualList>
 </template>
